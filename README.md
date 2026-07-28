@@ -25,7 +25,7 @@ To learn more, check out my website, https://picelboi.xyz.
 
 - **Name**: Encode2It  
   **Git Tag**: v1.0.0  
-  **URL**: https://github.com/PicelBoi/Encode2It/releases/tag/v1.0.0  
+  **URL**: https://github.com/ichigoleite/Encode2It/releases/tag/v1.0.0  
   **Published**: 3 months ago  
 
 - **Name**: i2ME  
@@ -37,12 +37,12 @@ To learn more, check out my website, https://picelboi.xyz.
 ## Pull Requests
 
 - **Title**: Workers support  
-  **URL**: https://github.com/PicelBoi/weatherscan-v2/pull/1  
+  **URL**: https://github.com/ichigoleite/weatherscan-v2/pull/1  
   **State**: MERGED  
   **CreatedAt**: 2 months ago  
   **Repository name**: weatherscan-v2  
   **Repository description**: Weatherscan v2 (2005-2022) simulation in HTML/JS/CSS  
-  **Repository URL**: https://github.com/PicelBoi/weatherscan-v2  
+  **Repository URL**: https://github.com/ichigoleite/weatherscan-v2  
 
 - **Title**: Workers support  
   **URL**: https://github.com/MistWeatherMedia/weatherscan-v2/pull/16  
@@ -81,12 +81,12 @@ To learn more, check out my website, https://picelboi.xyz.
   
 - **Name**: iskaerutomoup  
   **Description**: This is a site that does this ig  
-  **URL**: https://github.com/PicelBoi/iskaerutomoup)  
+  **URL**: https://github.com/ichigoleite/iskaerutomoup)  
   **Occurred**: 2 weeks ago  
   
 - **Name**: pyJSOBSL  
   **Description**:   
-  **URL**: https://github.com/PicelBoi/pyJSOBSL)  
+  **URL**: https://github.com/ichigoleite/pyJSOBSL)  
   **Occurred**: 1 month ago  
   
 - **Name**: android_kernel_kyocera_902KC  
@@ -106,34 +106,4 @@ To learn more, check out my website, https://picelboi.xyz.
 
 
 ## Most stars
-  
-- **Name**: pvr-model-extractor  
-  **NameWithOwner**: PicelBoi/pvr-model-extractor  
-  **Description**: Python decompiler for the .pod model format used in some of Nintendo's mobile games  
-  **URL**: https://github.com/PicelBoi/pvr-model-extractor)  
-  **Stars**: 3  
-  
-- **Name**: Weirderscan  
-  **NameWithOwner**: PicelBoi/Weirderscan  
-  **Description**: A skin for Weatherscan.  
-  **URL**: https://github.com/PicelBoi/Weirderscan)  
-  **Stars**: 2  
-  
-- **Name**: Encode2It  
-  **NameWithOwner**: PicelBoi/Encode2It  
-  **Description**: An encoder for the Zap2It cable guide.  
-  **URL**: https://github.com/PicelBoi/Encode2It)  
-  **Stars**: 1  
-  
-- **Name**: tlifequiz  
-  **NameWithOwner**: PicelBoi/tlifequiz  
-  **Description**: A repatched version of the Tomodachi Life personality quiz.  
-  **URL**: https://github.com/PicelBoi/tlifequiz)  
-  **Stars**: 1  
-  
-- **Name**: Widerscan  
-  **NameWithOwner**: PicelBoi/Widerscan  
-  **Description**: Weatherscan in a 16:9 format. Very lazy edits here.  
-  **URL**: https://github.com/PicelBoi/Widerscan)  
-  **Stars**: 1  
 
