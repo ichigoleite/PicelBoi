@@ -79,6 +79,11 @@ To learn more, check out my website, https://picelboi.xyz.
 
 ## Contributions
   
+- **Name**: Encode2It  
+  **Description**: An encoder for the Zap2It cable guide.  
+  **URL**: https://github.com/ichigoleite/Encode2It)  
+  **Occurred**: today  
+  
 - **Name**: iskaerutomoup  
   **Description**: This is a site that does this ig  
   **URL**: https://github.com/ichigoleite/iskaerutomoup)  
@@ -92,11 +97,6 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: android_kernel_kyocera_902KC  
   **Description**: 902KC kernel from Kyocera  
   **URL**: https://github.com/PicelBoi-Keitai-Works/android_kernel_kyocera_902KC)  
-  **Occurred**: 1 month ago  
-  
-- **Name**: android_kernel_kyocera_kyf42  
-  **Description**: KYF42 kernel from Kyocera  
-  **URL**: https://github.com/PicelBoi-Keitai-Works/android_kernel_kyocera_kyf42)  
   **Occurred**: 1 month ago  
   
 - **Name**: local_manifests  
