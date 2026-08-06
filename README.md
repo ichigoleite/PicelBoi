@@ -99,9 +99,9 @@ To learn more, check out my website, https://picelboi.xyz.
   **URL**: https://github.com/PicelBoi-Keitai-Works/android_kernel_kyocera_902KC)  
   **Occurred**: 1 month ago  
   
-- **Name**: android_kernel_kyocera_kyf42  
-  **Description**: KYF42 kernel from Kyocera  
-  **URL**: https://github.com/PicelBoi-Keitai-Works/android_kernel_kyocera_kyf42)  
+- **Name**: local_manifests  
+  **Description**:   
+  **URL**: https://github.com/PicelBoi-Keitai-Works/local_manifests)  
   **Occurred**: 1 month ago  
 
 
