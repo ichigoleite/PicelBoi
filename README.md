@@ -102,7 +102,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: android_kernel_kyocera_kyf42  
   **Description**: KYF42 kernel from Kyocera  
   **URL**: https://github.com/PicelBoi-Keitai-Works/android_kernel_kyocera_kyf42)  
-  **Occurred**: 1 month ago  
+  **Occurred**: 2 months ago  
 
 
 ## Most stars
