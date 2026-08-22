@@ -26,7 +26,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: Encode2It  
   **Git Tag**: v1.0.0-mist-delimited  
   **URL**: https://github.com/ichigoleite/Encode2It/releases/tag/v1.0.0-mist-delimited  
-  **Published**: 2 weeks ago  
+  **Published**: 3 weeks ago  
 
 - **Name**: i2ME  
   **Git Tag**: v1.4RC1  
@@ -97,7 +97,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: android_kernel_kyocera_902KC  
   **Description**: 902KC kernel from Kyocera  
   **URL**: https://github.com/PicelBoi-Keitai-Works/android_kernel_kyocera_902KC)  
-  **Occurred**: 1 month ago  
+  **Occurred**: 2 months ago  
   
 - **Name**: android_kernel_kyocera_kyf42  
   **Description**: KYF42 kernel from Kyocera  
